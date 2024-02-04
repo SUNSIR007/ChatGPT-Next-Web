@@ -2,6 +2,8 @@
 https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
 
 ## 个性化配置
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240203/截屏2024-02-03-08.52.40.4xpm7nhvdtw0.png" alt="截屏2024-02-03-08" />
+
 ###  1.更改默认设置
 app/store/config.ts中进行修改，可对比这设置进行修改
 
