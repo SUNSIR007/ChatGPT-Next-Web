@@ -14,5 +14,10 @@ chat.tsx `<IconButton>`（1300 行）
 ### 4.输入框提示词
 cn.ts `Input: (submitKey: string)`(69行)
 
+### 5.配置环境变量
+BASE_URL：你的第三方 api 地址
+OPENAI_API_KEY：你的 api key
+CODE：密码
+
 ## 部署
 先将本仓库fork至你的仓库，然后通过vercel进行import，注意添加环境变量，详情查看docs里的文档
