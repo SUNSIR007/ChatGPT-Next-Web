@@ -15,8 +15,8 @@ chat.tsx `<IconButton>`（1300 行）
 cn.ts `Input: (submitKey: string)`(69行)
 
 ### 5.配置环境变量
-BASE_URL：你的第三方 api 地址
-OPENAI_API_KEY：你的 api key
+BASE_URL：你的第三方 api 地址  
+OPENAI_API_KEY：你的 api key  
 CODE：密码
 
 ## 部署
